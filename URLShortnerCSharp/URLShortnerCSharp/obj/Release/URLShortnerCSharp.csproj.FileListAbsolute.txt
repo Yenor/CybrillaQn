@@ -1,0 +1,8 @@
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\bin\Release\URLShortnerCSharp.exe.config
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\bin\Release\URLShortnerCSharp.exe
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\bin\Release\URLShortnerCSharp.pdb
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Release\URLShortnerCSharp.Form1.resources
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Release\URLShortnerCSharp.Properties.Resources.resources
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Release\URLShortnerCSharp.csproj.GenerateResource.Cache
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Release\URLShortnerCSharp.exe
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Release\URLShortnerCSharp.pdb

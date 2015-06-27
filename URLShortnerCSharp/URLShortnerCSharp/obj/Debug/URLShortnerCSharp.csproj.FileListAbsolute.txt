@@ -1,0 +1,9 @@
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\bin\Debug\URLShortnerCSharp.exe.config
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\bin\Debug\URLShortnerCSharp.exe
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\bin\Debug\URLShortnerCSharp.pdb
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Debug\URLShortnerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Debug\URLShortnerCSharp.Form1.resources
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Debug\URLShortnerCSharp.Properties.Resources.resources
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Debug\URLShortnerCSharp.csproj.GenerateResource.Cache
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Debug\URLShortnerCSharp.exe
+C:\Users\Lenovo-One\Desktop\URLShortnerCSharp\URLShortnerCSharp\obj\Debug\URLShortnerCSharp.pdb
